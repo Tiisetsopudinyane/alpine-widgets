@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: rgb(68, 64, 64);
+    color: rgb(146, 146, 146);
+}
+ul{
+    list-style: none;
+}
+li,p{
+    color: white;
+}
+span{
+ text-align: center;
+ margin: 1em;
+ color: white;
+}
